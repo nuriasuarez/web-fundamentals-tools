@@ -11,7 +11,7 @@ List of tools what you need in your development toolkit to build an experience t
 
 ### Set Up Your Editor ###
 1. Install [Sublime](http://www.sublimetext.com/)
-2. Follow this [guideline](https://developers.google.com/web/fundamentals/tools/setup/editor) to install useful plugins.
+2. Follow this [guideline](https://developers.google.com/web/tools/setup/setup-editor?hl=en) to install useful plugins.
 3. [Emmet plugin cheat-sheet](http://docs.emmet.io/cheat-sheet/)
 
 ### Set Up Browser Extensions ###
